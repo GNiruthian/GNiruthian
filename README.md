@@ -3,7 +3,6 @@
 ### get in touch 📧📧📧💌📨
 Sponsor📧💌
 g.niruthian15@gmail.com
-![undraw_Code_review_re_woeb](https://user-images.githubusercontent.com/88297426/145670658-99502c03-8409-42d6-b76a-dbb75f1fe110.png)
 
 <!--
 **GNiruthian/GNiruthian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
