@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### get in touch 📧📧📧💌📨
+g.niruthian15@gmail.com
+
 <!--
 **GNiruthian/GNiruthian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
