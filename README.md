@@ -9,7 +9,7 @@ gniruthian@gmail.com
 
 Here are some ideas to get you started:
 -->
-
+<!--
 - 🔭 I’m currently working on ...My Github Projects
 - 🌱 I’m currently learning ... Java
 - 👯 I’m looking to collaborate on ...Open source
