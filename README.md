@@ -28,15 +28,15 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...My Github Projects
-- 🌱 I’m currently learning ... Java
-- 👯 I’m looking to collaborate on ...Open source
-- 🤔 I’m looking for help with ...sponsor
-- 💬 Ask me about ...web development
-- 📫 How to reach me: ...Gmail
+- 🔭 I’m currently working on ... -> My Github Projects
+- 🌱 I’m currently learning ... -> Java
+- 👯 I’m looking to collaborate on ... -> Open source
+- 🤔 I’m looking for help with ... -> sponsor
+- 💬 Ask me about ... -> web development
+- 📫 How to reach me: ... -> Gmail
 - 📧 Gmail -> gniruthian@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...Cricketer🏏
+- 😄 Pronouns: ...  -> He/Him
+- ⚡ Fun fact: ... -> Cricketer🏏
 
 ## 🚀 Languages and Tools:
 
