@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...web development
 - 📫 How to reach me: ...Gmail
 - 📧 Gmail -> gniruthian@gmail.com
+- 🪙 Sponsor📧💌 -> gniruthian@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Cricketer🏏
 -->
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... -> web development
 - 📫 How to reach me: ... -> Gmail
 - 📧 Gmail -> gniruthian@gmail.com
+- 🪙 Sponsor📧💌 -> gniruthian@gmail.com
 - 😄 Pronouns: ...  -> He/Him
 - ⚡ Fun fact: ... -> Cricketer🏏
 
