@@ -2,7 +2,7 @@
  
 ### get in touch 📧📧📧💌📨
 Sponsor📧💌 -> 
-gniruthian@gmail.com
+
  
 
 
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...sponsor
 - 💬 Ask me about ...web development
 - 📫 How to reach me: ...Gmail
-- 📧 Gmail -> gniruthian@gmail.com
-- 🪙 Sponsor📧💌 -> gniruthian@gmail.com
+- 📧 Gmail -> 
+- 🪙 Sponsor📧💌 -> 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Cricketer🏏
 -->
