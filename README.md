@@ -1,28 +1,3 @@
-<!-- ### Hi there 👋! 
-  
-### get in touch 📧📧📧💌📨
-Sponsor📧💌 -> 
-
-  
-
-
-<!--
-**GNiruthian/GNiruthian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-<!--
-- 🔭 I’m currently working on ...My Github Projects
-- 🌱 I’m currently learning ... Java
-- 👯 I’m looking to collaborate on ...Open source
-- 🤔 I’m looking for help with ...sponsor
-- 💬 Ask me about ...web development
-- 📫 How to reach me: ...Gmail
-- 📧 Gmail -> 
-- 🪙 Sponsor📧💌 -> 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...Cricketer🏏
--->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm G.Niruthian</h1>
