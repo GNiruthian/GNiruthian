@@ -18,7 +18,7 @@
 - 🪙 Sponsor📧💌 -> gniruthian@gmail.com
 - 😄 Pronouns: ...  -> He/Him
 - ⚡ Fun fact: ... -> Cricketer🏏
-
+ 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
