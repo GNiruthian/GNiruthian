@@ -25,3 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gniruthian&show_icons=true&locale=en" alt="gniruthian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gniruthian&" alt="gniruthian" /></p>
+
+<br/>
+
+<a href="https://github.com/GNiruthian/github-readme-activity-graph"><img alt="G.Niruthian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GNiruthian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
