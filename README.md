@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+
 <h1 align="center">Hi 👋, I'm G.Niruthian</h1>
 <h3 align="center">A passionate Web developer from Sri Lanka</h3>
 
@@ -34,3 +36,5 @@
 <a href="https://github.com/GNiruthian/github-readme-activity-graph"><img alt="G.Niruthian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GNiruthian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
+
+<!--END_SECTION:waka-->
