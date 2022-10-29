@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gniruthian" alt="gniruthian" /></a> </p>
 
 - 💬 Ask me about **Web Development**
-
+ 
 - ⚡ Fun fact **Cricketer🏏**
  
 <h3 align="left">Connect with me:</h3>
