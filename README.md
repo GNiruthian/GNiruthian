@@ -32,7 +32,3 @@
 <a href="https://github.com/GNiruthian/github-readme-activity-graph"><img alt="G.Niruthian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GNiruthian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
