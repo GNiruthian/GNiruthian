@@ -29,6 +29,6 @@
 
 <br/>
 
-<a href="https://github.com/GNiruthian/github-readme-activity-graph"><img alt="G.Niruthian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GNiruthian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GNiruthian&bg_color=f6efa7&color=9e4c98&line=a3c9e2&point=ff0078&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
